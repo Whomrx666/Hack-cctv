@@ -18,7 +18,7 @@ $ python3 Hack-cctv.py
 
 # Hack Cctv
 
-<img src="https://github.com/Whomrx666/Hack-cctv/blob/master/02.png">
+<img src="https://github.com/Whomrx666/Hack-cctv/blob/main/02.png">
 
 # Hack Cctv
 
