@@ -14,7 +14,7 @@ $ python3 Hack-cctv.py
 ```
 # Hack Cctv
 
-<img src="https://github.com/Whomrx666/Hack-cctv/blob/master/01.png">
+<img src="https://github.com/Whomrx666/Hack-cctv/blob/main/01.png">
 
 # Hack Cctv
 
@@ -22,7 +22,7 @@ $ python3 Hack-cctv.py
 
 # Hack Cctv
 
-<img src="https://github.com/Whomrx666/Hack-cctv/blob/master/03.png">
+<img src="https://github.com/Whomrx666/Hack-cctv/blob/main/03.png">
 
 ## Instructions
 - **Code**: Enter the code according to the script, for example (US) which means United States
